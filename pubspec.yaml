@@ -22,7 +22,7 @@ dependencies:
     sdk: flutter
   url_launcher_android:
     git:
-      url: https://github.com/tulevan5/url_launcher_android.git
+      url: https://github.com/tulevan5/url_launcher.git
       ref: release
   url_launcher_ios: ^6.0.13
   url_launcher_platform_interface: ^2.1.0
